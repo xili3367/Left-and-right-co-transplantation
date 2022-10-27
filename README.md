@@ -13,5 +13,7 @@ pySCENIC (https://github.com/aertslab/pySCENIC, v0.11.2)  \
 CellChat (http://www.cellchat.org/, v1.1.3)  \
 CaSpER (https://github.com/akdess/CaSpER, v0.2.0) \
 ### Data acquisition
-scRNA-seq datasets used in _Single cell RNA sequencing reveals C5aR1 inhibition selectively targets pro-tumorigenic M2 macrophages reversing PARP inhibitor resistance_ is available from GSE215908
+1. MDST mouse scRNA-seq datasets used in _Single cell RNA sequencing reveals C5aR1 inhibition selectively targets pro-tumorigenic M2 macrophages reversing PARP inhibitor resistance_ is available from GSE215908 \
+2. scRNA-seq datasets and related meta data used for T cell and meyloid cell annotation is available from GSE169246 \
+3. ligand-recepter pair database is available from https://www.cellphonedb.org/ \
 
