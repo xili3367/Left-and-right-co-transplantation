@@ -12,4 +12,6 @@ densVis (https://github.com/hhcho/densvis/tree/master/densmap, v0.2.1)  \
 pySCENIC (https://github.com/aertslab/pySCENIC, v0.11.2)  \
 CellChat (http://www.cellchat.org/, v1.1.3)  \
 CaSpER (https://github.com/akdess/CaSpER, v0.2.0) \
+### Data acquisition
+scRNA-seq datasets used in _Single cell RNA sequencing reveals C5aR1 inhibition selectively targets pro-tumorigenic M2 macrophages reversing PARP inhibitor resistance_ is available from GSE215908
 
